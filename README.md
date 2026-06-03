@@ -1,4 +1,4 @@
-# 📰 AI News Summarizer
+# 📰 AI News Summarizer - Email Automation
 
 An AI-powered news summarization tool that fetches the latest news articles and generates concise, readable summaries using Google's Gemini model through LangChain. This project helps users quickly grasp the key information from news articles without having to read lengthy content.
 
